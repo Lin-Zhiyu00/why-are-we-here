@@ -1,3 +1,4 @@
 - Tool I used today: uv, Git and VS Code.
-- One thing that worked: I successfully ran the schotter.py script and saw the graphic output.
-- One thing that failed: I was confused about the difference between week‑01 and week‑02 repository at first.
+- One thing I kept: I kept the simple essay structure to keep my argument easy to understand.
+- One thing I rejected: I rejected a very long introductory paragraph, to stay within the word limit.
+
